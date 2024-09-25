@@ -1,0 +1,39 @@
+Density of common fluids
+
+Fluid	Density (g/cm3) at 20C and 1 atm unless noted
+water 	0.99820
+water (0 C) 	0.99984
+water (4 C) 	0.99997
+water (100 C) 	0.95836
+gasoline 	0.66-0.69
+ethyl alcohol 	0.791
+turpentine 	0.85
+olive oil 	0.9
+castor oil 	0.969
+sea water	1.03
+milk 	1.028-1.035
+glycerin 	1.260
+mercury 	13.55
+
+Solutions
+sodium chloride in water
+grams solute/100 grams solution 	density (g/cm3)
+10	1.0726
+20	1.1498
+26	1.1993
+
+sucrose in water
+grams solute/100 grams solution 	density (g/cm3)
+5	1.0197
+10	1.0400
+15	1.0610
+19	1.0784
+air 	
+helium 	
+methane 	
+hydrogen 	
+sulfur hexafluoride 	
+
+data from Kaye and Laby, 14th ed and the CRC Handbook 
+
+text from https://www.sfu.ca/phys/demos/demoindex/fluids/fl2b/density.html

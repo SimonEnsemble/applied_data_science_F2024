@@ -1,0 +1,27 @@
+Identification code MOF-841
+Empirical formula C62H36O36Zr6
+Formula weight 1904.23
+Temperature/K 150(2)
+Crystal system tetragonal
+Space group I4/m
+a/Å 14.6766(6)
+b/Å 14.6766(6)
+c/Å 28.0033(10)
+α/° 90.00
+β/° 90.00
+γ/° 90.00
+Volume/Å3 6032.0(4)
+Z 2
+ρcalc/ mg mm-3 1.048
+m/mm-1 0.5485
+F(000) 3504.0
+Radiation MoKα (λ = 0.71073 Å)
+2Θ range for data collection 4.88 to 51.98°
+Index ranges -18 ≤ h ≤ 18, -18 ≤ k ≤ 18, -34 ≤ l ≤ 34
+Reflections collected 41321
+Independent reflections 3043 [Rint = 0.0415, Rsigma = 0.0165]
+Data/restraints/parameters 3043/72/135
+Goodness-of-fit on F2 1.233
+Final R indexes [I>=2σ (I)] R1 = 0.0519, wR2 = 0.1763
+Final R indexes [all data] R1 = 0.0597, wR2 = 0.1897
+Largest diff. peak/hole / e Å-3 1.48/-0.60

@@ -1,0 +1,27 @@
+Identification code MOF-806
+Empirical formula C84H24O49.50Zr6
+Formula weight 2372.35
+Temperature/K 100.15
+Crystal system cubic
+Space group Fm-3
+a/Å 26.8514(7)
+b/Å 26.8514(7)
+c/Å 26.8514(7)
+α/° 90
+β/° 90
+γ/° 90
+Volume/Å3 19359.8(15)
+Z 4
+ρcalc/mg mm-3 0.814
+m/mm-1 2.984
+F(000) 4656.0
+Radiation CuKα (λ = 1.54178 Å)
+2Θ range for data collection 5.7 to 119.79°
+Index ranges -30 ≤ h ≤ 23, -30 ≤ k ≤ 26, -27 ≤ l ≤ 28
+Reflections collected 24557
+Independent reflections 1302 [Rint = 0.0244, Rsigma = 0.0099]
+Data/restraints/parameters 1302/0/86
+Goodness-of-fit on F2 1.297
+Final R indexes [I>=2σ (I)] R1 = 0.0631, wR2 = 0.2346
+Final R indexes [all data] R1 = 0.0663, wR2 = 0.2388
+Largest diff. peak/hole / e Å-3 1.10/-0.53

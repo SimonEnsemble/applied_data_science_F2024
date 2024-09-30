@@ -1,0 +1,27 @@
+Identification code MOF-812
+Empirical formula C95N0.67O39.7Zr6
+Formula weight 2332.28
+Temperature/K 100(2)
+Crystal system monoclinic
+Space group C2/c
+a/Å 23.9651(11)
+b/Å 29.2842(13)
+c/Å 17.3545(9)
+α/° 90
+β/° 96.301(2)
+γ/° 90
+Volume/Å3 12105.8(10)
+Z 4
+ρcalc/ mg mm-3 1.280
+m/mm-1 4.709
+F(000) 4528.0
+Radiation CuKα (λ = 1.54178 Å)
+2Θ range for data collection 6.036 to 149.318°
+Index ranges -20 ≤ h ≤ 29, -27 ≤ k ≤ 36, -20 ≤ l ≤ 19
+Reflections collected 48440
+Independent reflections 11691 [Rint = 0.0367, Rsigma = 0.0308]
+Data/restraints/parameters 11691/48/656
+Goodness-of-fit on F2 1.084
+Final R indexes [I>=2σ (I)] R1 = 0.0732, wR2 = 0.2086
+Final R indexes [all data] R1 = 0.0913, wR2 = 0.2288
+Largest diff. peak/hole / e Å-3 1.46/-1.07

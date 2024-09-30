@@ -1,0 +1,29 @@
+Identification code MOF-802
+Empirical formula C39H16N14.5O39Zr6
+Formula weight 1859.65
+Temperature/K 100.0
+Crystal system orthorhombic
+Space group Fdd2
+a/Å 39.222(3)
+b/Å 26.018(2)
+c/Å 27.887(2)
+α/° 90
+β/° 90
+γ/° 90
+Volume/Å3 28459(4)
+Z 16
+ρcalc/mg mm-3 1.736
+m/mm-1 7.853
+F(000) 14461.0
+Crystal size/mm3 0.25 × 0.21 × 0.18
+Radiation CuKα (λ = 1.54178 Å)
+2Θ range for data collection 4.506 to 137.604°
+Index ranges -41 ≤ h ≤ 47, -31 ≤ k ≤ 30, -29 ≤ l ≤ 33
+Reflections collected 27657
+Independent reflections 10910 [Rint = 0.0142, Rsigma = 0.0197]
+Data/restraints/parameters 10910/145/797
+Goodness-of-fit on F2 1.074
+Final R indexes [I>=2σ (I)] R1 = 0.0382, wR2 = 0.1135
+Final R indexes [all data] R1 = 0.0388, wR2 = 0.1157
+Largest diff. peak/hole / e Å-3 1.55/-0.83
+Flack parameter -0.021(4)

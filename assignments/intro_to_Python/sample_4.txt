@@ -1,0 +1,28 @@
+Identification code MOF-808
+Empirical formula C24H6O44.35Zr6
+Formula weight 1551.21
+Temperature/K 100.15
+Crystal system cubic
+Space group Fd-3m
+a/Å 35.0764(10)
+b/Å 35.0764(10)
+c/Å 35.0764(10)
+α/° 90
+β/° 90
+γ/° 90
+Volume/Å3 43156(4)
+Z 16
+ρcalc/ mg mm-3 0.955
+m/mm-1 0.781
+F(000) 11917.0
+Crystal size/mm3 0.01 × 0.01 × 0.01
+Radiation Synchrotron (λ = 0.7749 Å)
+2Θ range for data collection 3.58 to 67.398°
+Index ranges -49 ≤ h ≤ 50, -50 ≤ k ≤ 50, -50 ≤ l ≤ 50
+Reflections collected 180989
+Independent reflections 3133 [Rint = 0.0851, Rsigma = 0.0213]
+Data/restraints/parameters 3133/0/126
+Goodness-of-fit on F2 1.126
+Final R indexes [I>=2σ (I)] R1 = 0.0396, wR2 = 0.1334
+Final R indexes [all data] R1 = 0.0475, wR2 = 0.1431
+Largest diff. peak/hole / e Å-3 0.85/-0.78

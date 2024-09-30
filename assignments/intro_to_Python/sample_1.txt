@@ -1,0 +1,28 @@
+Identification code MOF-801
+Empirical formula C48H24O81.17Zr12
+Formula weight 2993.98
+Temperature/K 100.15
+Crystal system triclinic
+Space group P-1
+a/Å 17.809(6)
+b/Å 17.831(6)
+c/Å 17.812(6)
+α/° 90.031(6)
+β/° 90.182(6)
+γ/° 89.999(6)
+Volume/Å3 5656(3)
+Z 2
+ρcalc/ mg mm-3 1.758
+m/mm-1 4.733
+F(000) 2883.0
+Crystal size/mm3 0.02 × 0.01 × 0.01
+Radiation Synchrotron (λ = 0.6199 Å)
+2Θ range for data collection 5.634 to 45.8°
+Index ranges -22 ≤ h ≤ 22, -22 ≤ k ≤ 22, -22 ≤ l ≤ 22
+Reflections collected 56059
+Independent reflections 23306 [Rint = 0.1395, Rsigma = 0.2001]
+Data/restraints/parameters 23306/192/1280
+Goodness-of-fit on F2 1.053
+Final R indexes [I>=2σ (I)] R1 = 0.1763, wR2 = 0.3982
+Final R indexes [all data] R1 = 0.2137, wR2 = 0.4263
+Largest diff. peak/hole / e Å-3 3.88/-6.89
